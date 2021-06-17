@@ -52,7 +52,7 @@ The output will be a series of steps that will lead to a solved state of the puz
 ['U', 'D', 'R', 'U']
 ```
 
-##solve222
+## solve222
 
 2x2x2 Rubik's Cube solver. Requires a single parameter, namely, a 24 character long string representing the scrambled state of the cube based on the first letters of the colors of each sticker.
 In order to obtain the scramble string, the user may hold the cube in any way.
