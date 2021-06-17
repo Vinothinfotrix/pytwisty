@@ -12,6 +12,8 @@ Run the following to install:
 pip install pytwisty
 ```
 
+https://pypi.org/project/pytwisty/
+
 ## solve122
 
 1x2x2 solver. Requires two parameters, namely a 6 character long string representing the colour alignment of the solved cube, and an 8 character long string based on the first letters of the colors of each sticker on the scrambled puzzle.
