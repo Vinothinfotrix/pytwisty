@@ -1,7 +1,7 @@
 # Overview
 
 This is an extremely fast and efficient Python 3 implementation of a solver for 1x2x2, 1x2x3, and 2x2x2 Rubik's cube puzzles.
-It works on a technique developed by me called "Minimal Thinking" that, as the name suggests, minimises the thought process behind solving any problem by recognising the type of problem and using a predetermined result to jump straight to the solution.
+It works on a technique I developed called "Minimal Thinking" that, as the name suggests, minimises the thought process behind solving any problem by recognising the type of problem and using a predetermined result to jump straight to the solution.
 At each step of solving a puzzle, the solver recognises the current arrangement and orientation of the individual pieces of the puzzle, and rearranges and reorients the pieces into the final state of the puzzle that the corresponding algorithm would have resulted in, had it been manually executed.
 
 ## Installation
