@@ -8,7 +8,7 @@ More on the Project: https://prakharkuwait.medium.com/unintelligent-rubiks-cube-
 
 ## Installation
 
-Run the following to install:
+Run the following to install the package:
 
 ```python
 pip install pytwisty
