@@ -4,6 +4,8 @@ This is an extremely fast and efficient Python 3 implementation of a solver for 
 It works on a technique I developed called "Minimal Thinking" that, as the name suggests, minimises the thought process behind solving any problem by recognising the type of problem and using a predetermined result to jump straight to the solution.
 At each step of solving a puzzle, the solver recognises the current arrangement and orientation of the individual pieces of the puzzle, and rearranges and reorients the pieces into the final state of the puzzle that the corresponding algorithm would have resulted in, had it been manually executed.
 
+More on the Project: https://prakharkuwait.medium.com/unintelligent-rubiks-cube-solvers-the-final-leap-bd5133f78505
+
 ## Installation
 
 Run the following to install:
